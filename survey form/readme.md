@@ -20,4 +20,3 @@ This is a **Survey Form** project built as part of the [freeCodeCamp Responsive 
 - CSS3 (Flexbox/Grid for layout)
 - Responsive Design Principles
 
-## 📁 Project Structure
