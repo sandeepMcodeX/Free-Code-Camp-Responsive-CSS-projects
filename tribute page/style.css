@@ -123,3 +123,9 @@ margin-inline:1.5em ;
 }
   
 }
+
+@media(max-width:400px){
+#imgdiv{
+row-gap:2.1rem;
+}
+}
