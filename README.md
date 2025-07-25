@@ -5,7 +5,8 @@ This repository contains all the projects I built for the **Responsive Web Desig
 I successfully completed all five required projects and passed all automated test suites provided by FreeCodeCamp.
 
 📜 **Certification URL**:  
-[![View My Certificate](https://img.shields.io/badge/View%20Certificate-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/certification/fcc-ad8c55a8-6a37-4259-9fd8-c8ff808a3ac4/responsive-web-design)
+![]()<img width="1144" height="769" alt="responsive-css-certificate" src="https://github.com/user-attachments/assets/635a83cb-8b9e-4df6-9293-a6a961cb0558" />
+
 
 ---
 
